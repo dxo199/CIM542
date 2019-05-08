@@ -3,5 +3,5 @@
 
 ## Homework 1
 
-[Homework1 code](code/tempcensor/tempcensor.ino)
-[homework1 video](http://www.youtube.com)
+[Code](code/spaceship/spaceship.ino)
+[Video](https://youtu.be/Ji-qHLZ8gV8)
