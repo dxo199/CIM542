@@ -11,4 +11,4 @@
 
 [Code](code/love/LOVE.ino)
 
-[Video] (https://www.youtube.com/watch?v=1a82Pu4nwaA&feature=youtu.be)
+[Video](https://www.youtube.com/watch?v=1a82Pu4nwaA&feature=youtu.be)
